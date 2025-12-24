@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "If You Leave Me Now",
+  "base_artist": "Chicago",
+  "createdAt": "2025-12-24T04:18:20.906522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/01_If_You_Leave_Me_Now_Chicago.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "方大同",
+      "has_synced": true,
+      "path": "select/02_If_You_Leave_Me_Now_方大同.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/03_If_You_Leave_Me_Now_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/04_If_You_Leave_Me_Now_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/05_If_You_Leave_Me_Now_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You leave Me Now",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/06_If_You_leave_Me_Now_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "方大同",
+      "has_synced": true,
+      "path": "select/07_If_You_Leave_Me_Now_方大同.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/08_If_You_Leave_Me_Now_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "顺子",
+      "has_synced": true,
+      "path": "select/09_If_You_Leave_Me_Now_顺子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "Jaya",
+      "has_synced": true,
+      "path": "select/10_If_You_Leave_Me_Now_Jaya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/11_If_You_Leave_Me_Now_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If You Leave Me Now",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/12_If_You_Leave_Me_Now_Verschiedene.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/pl_01_If_You_Leave_Me_Now_Chicago.txt"
+    }
+  ]
+}
